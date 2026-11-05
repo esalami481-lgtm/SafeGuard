@@ -1,0 +1,2 @@
+# SafeGuard
+Android AppLock Application
